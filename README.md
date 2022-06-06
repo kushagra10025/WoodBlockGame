@@ -28,3 +28,12 @@ Wood Block is relaxing puzzle game where players have a 10x10 grid and set of wo
 * [DOTween](http://dotween.demigiant.com/index.php) - Tweening
 * [Vibration](https://github.com/BenoitFreslon/Vibration) - Android and iOS Vibration
 * [AspectRatioEnforcer](https://github.com/huchi57/AspectRatioEnforcer) - Aspect Ratio Force on Screens with Ratio not equal to 9:16
+
+## Requirements
+
+### Dev Env
+* Unity 2021.3.4f1 or Above
+* Visual Studio 2022 or Suitable IDE
+
+### Run Env
+* Android 7.1 or Above
